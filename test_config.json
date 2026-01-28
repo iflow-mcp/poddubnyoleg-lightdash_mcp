@@ -1,0 +1,1 @@
+{"mcpServers":{"lightdash":{"command":"python3","args":["-m","lightdash_mcp.server"],"env":{"LIGHTDASH_URL":"https://app.lightdash.cloud/api/v1","LIGHTDASH_TOKEN":"ldt_test_token_12345"}}}}

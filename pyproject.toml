@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "lightdash-mcp"
+name = "iflow-mcp_poddubnyoleg_lightdash-mcp"
 version = "0.1.0"
 description = "Model Context Protocol (MCP) server for Lightdash analytics platform"
 readme = "README.md"

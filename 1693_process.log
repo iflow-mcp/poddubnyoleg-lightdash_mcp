@@ -1,0 +1,7 @@
+2026-01-28 03:36:36 [INFO] 步骤2：阅读代码开始
+2026-01-28 03:36:36 [INFO] 项目分析：这是一个MCP服务端项目，使用Python编写
+2026-01-28 03:36:36 [INFO] 使用的MCP SDK: mcp>=1.0.0
+2026-01-28 03:36:36 [INFO] 支持的协议: stdio
+2026-01-28 03:38:46 [INFO] 步骤3：本地测试成功
+2026-01-28 03:38:46 [INFO] 测试环境变量: LIGHTDASH_URL=https://app.lightdash.cloud/api/v1, LIGHTDASH_TOKEN=ldt_test_token_12345
+2026-01-28 03:38:46 [INFO] 使用命令: python3 -m lightdash_mcp.server
