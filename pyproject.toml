@@ -17,3 +17,5 @@ dependencies = [
 
 [project.scripts]
 lightdash-mcp = "lightdash_mcp.server:run"
+[tool.hatch.build.targets.wheel]
+packages = ["lightdash_mcp"]
