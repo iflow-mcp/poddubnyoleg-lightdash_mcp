@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "iflow-mcp_poddubnyoleg_lightdash-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Model Context Protocol (MCP) server for Lightdash analytics platform"
 readme = "README.md"
 license = "MIT"
